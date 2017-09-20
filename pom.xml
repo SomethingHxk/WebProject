@@ -6,7 +6,11 @@
 
     <groupId>com.hxk</groupId>
     <artifactId>WebProject</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>SSM</module>
+    </modules>
 
 
 </project>
